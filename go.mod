@@ -1,4 +1,4 @@
-module github.com/yankay/golang-helloworld/api
+module github.com/yankay/golang-helloworld-api
 
 go 1.17
 
